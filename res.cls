@@ -194,7 +194,7 @@
 \DeclareOption{line}{\@linetrue}
 \DeclareOption{centered}{\@linefalse}
 
-\DeclareOption{margin}{\@margintrue}
+\DeclareOption{mm}{\@margintrue}
 \DeclareOption{overlapped}{\@marginfalse}
 
 \ExecuteOptions{overlapped,centered}
